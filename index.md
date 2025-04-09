@@ -33,5 +33,3 @@ System.out.println("Hello World!");
 - [x] Complete High School
 - [ ] Complete University
 - [ ] Find a Nice Job
-
-[Link back to top!](#kelvin's-user-page!).
