@@ -15,7 +15,7 @@ System.out.println("Hello World!");
 [Khan Academy](https://www.khanacademy.org/) and [YouTube!](https://www.youtube.com/)
 
 ## Other Trivia
-[Link back to my favorite quote!](#Favorite-Quote).
+[Link back to my favorite quote!](#favorite-quote).
 
 [Cool Dog!](dog.png)
 
@@ -34,4 +34,4 @@ System.out.println("Hello World!");
 - [ ] Complete University
 - [ ] Find a Nice Job
 
-[Link back to top!](#Kelvin's-User-Page!)
+[Link back to top!](#kelvin's-user-page!).
