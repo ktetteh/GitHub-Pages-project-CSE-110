@@ -17,7 +17,7 @@ System.out.println("Hello World!");
 ## Other Trivia
 [Link back to my favorite quote!](#Favorite-Quote).
 
-[Cool Dog!](dog.md)
+[Cool Dog!](https://github.com/ktetteh/GitHub-Pages-project-CSE-110/blob/new-branch-vscode/dog.png?raw=true)
 
 ## My Computer Specs
 - Ryzen 7 7800x3d
